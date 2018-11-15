@@ -1,4 +1,6 @@
-# smooties
+# Coctail Recepies
+
+A coctail Recepies task. Working with Vue, Vuex and Firebase. For button and icons Materialize CSS has been used. A working example can be seen on  https://recepies-86e8b.firebaseapp.com/
 
 ## Project setup
 ```
@@ -20,4 +22,3 @@ npm run build
 npm run lint
 ```
 
-A working example on  https://recepies-86e8b.firebaseapp.com/
